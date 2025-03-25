@@ -50,8 +50,8 @@ I’m always exploring new ways to build efficient solutions to solve daily prob
   </p>
 
 
-  ### Badges
+  <!-- ### Badges
 
   <a href="https://github.com/alex-brokethecode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-brokethecode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+  -->
 Made with [Profile me](https://www.profileme.dev/create-profile)
