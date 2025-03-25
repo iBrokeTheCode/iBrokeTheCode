@@ -4,8 +4,11 @@ Hi, I'm AlexRTC 👋
 System Engineering Graduate & Computer Networks Technician
 ----------------
 
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrtc1997&show_icons=true&locale=en&layout=compact" alt="alex-brokethecode" /></p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrtc1997&label=Profile%20views&color=0e75b6&style=flat" alt="alex-brokethecode" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=alexrtc1997&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://www.codewars.com/users/alex-brokethecode/badges/micro" alt="Codewars Badge" />
+</p>
+
 
 I’m always exploring new ways to build efficient solutions to solve daily problems. Let’s connect and create something amazing!
 
