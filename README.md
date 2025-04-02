@@ -6,7 +6,7 @@ System Engineering Graduate & Computer Networks Technician
 
 <p align="left">
   <!-- <img src="https://komarev.com/ghpvc/?username=alexrtc1997&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
-  <img src="https://www.codewars.com/users/ibrokethecode/badges/micro" alt="Codewars Badge" />
+  <img src="https://www.codewars.com/users/iBrokeTheCode/badges/micro" alt="Codewars Badge" />
 </p>
 
 
