@@ -1,11 +1,10 @@
 Hi, I'm AlexRTC 👋
 ============================================================================================================================
 
-System Engineering Graduate & Computer Networks Technician
+System Engineering Graduate & Computer Network Technician
 ----------------
 
 <p align="left">
-  <!-- <img src="https://komarev.com/ghpvc/?username=alexrtc1997&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
   <img src="https://www.codewars.com/users/iBrokeTheCode/badges/micro" alt="Codewars Badge" />
 </p>
 
@@ -13,8 +12,8 @@ System Engineering Graduate & Computer Networks Technician
 I’m always exploring new ways to build efficient solutions to solve daily problems. Let’s connect and create something amazing!
 
 * 🚀 Passionate about technology, Artificial Intelligence, and Software Development 
-* 🐍 Enthusiast of Python and its ecosystem: Frameworks, tools, automation, and beyond.
-*   🖥️  See my portfolio at [alexrtc.dev](http://github.com/alex-brokethecode)
+* 🐍 Enthusiast of Python and its ecosystem: Frameworks, tools, automation and beyond.
+*   🖥️  See my [portfolio](https://ibrokethecode.github.io/portfolio/)
 *   ✉️  You can contact me at [alexrtc.dev@gmail.com](mailto:alexrtc.dev@gmail.com)
 *   🧠  I'm learning Django, Django REST Framework, FastAPI and other technologies related with Web Development and Python
 
@@ -36,14 +35,14 @@ I’m always exploring new ways to build efficient solutions to solve daily prob
   ### Socials
                           
   <p align="left">
-    <a href="https://www.github.com/alex-brokethecode" target="_blank" rel="noreferrer">
+    <a href="https://www.github.com/ibrokethecode" target="_blank" rel="noreferrer">
         <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
         </picture>
     </a>
-    <a href="https://www.linkedin.com/in/alex-ronaldo-turpo-coila-4409b3356/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/ibrokethecode" target="_blank" rel="noreferrer">
         <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
@@ -52,9 +51,10 @@ I’m always exploring new ways to build efficient solutions to solve daily prob
     </a>
   </p>
 
+<!--
+ ### Badges
 
-  <!-- ### Badges
+  <a href="https://github.com/ibrokethecode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrokethecode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
 
-  <a href="https://github.com/alex-brokethecode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-brokethecode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  -->
 Made with [Profile me](https://www.profileme.dev/create-profile)
