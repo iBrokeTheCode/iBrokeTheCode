@@ -1,60 +1,41 @@
 Hi, I'm AlexRTC 👋
 ============================================================================================================================
 
-System Engineering Graduate & Computer Network Technician
-----------------
+Machine Learning Practitioner | AI Developer
+---------------------------------------------
 
 <p align="left">
   <img src="https://www.codewars.com/users/iBrokeTheCode/badges/micro" alt="Codewars Badge" />
 </p>
 
+I'm a **Machine Learning Practitioner** with a background in Systems Engineering and IT, currently transitioning into **Artificial Intelligence Engineering** at AnyoneAI. I'm passionate about building robust, data-driven solutions and creating intelligent systems that deliver real-world impact. My experience includes developing and deploying CNN-based image classification models and optimizing supervised learning models for risk analysis.
 
-I’m always exploring new ways to build efficient solutions to solve daily problems. Let’s connect and create something amazing!
+I consider myself a **lifelong learner** with a **growth mindset**, always exploring new ways to solve complex problems and contribute to innovative technologies. Let's connect and build something amazing!
 
-* 🚀 Passionate about technology, Artificial Intelligence, and Software Development 
-* 🐍 Enthusiast of Python and its ecosystem: Frameworks, tools, automation and beyond.
-*   🖥️  See my [portfolio](https://ibrokethecode.github.io/portfolio/)
-*   ✉️  You can contact me at [alexrtc.dev@gmail.com](mailto:alexrtc.dev@gmail.com)
-*   🧠  I'm learning Django, Django REST Framework, FastAPI and other technologies related with Web Development and Python
+* 🚀 **Passionate about:** Machine Learning, Artificial Intelligence, MLOps, and scalable software development.
+* 🐍 **Specializing in:** Python and its ecosystem, including data science frameworks, deep learning libraries, and deployment tools.
+* ☁️ **Cloud Experience:** AWS, Google Cloud Platform (GCP)
+* 💡 **Currently focused on:** Mastering Machine Learning solutions, MLOps practices, and building AI-powered applications.
 
-### Skills 
+### Connect & Learn More
+
+* ✉️ You can contact me at [alexrtc.dev@gmail.com](mailto:alexrtc.dev@gmail.com)
+* 🌐 See my [portfolio](https://ibrokethecode.github.io/portfolio/)
+* 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/alex-turpo)
+
+### Skills
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <a href="https://tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="Scikit-learn" /></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/airflow-colored.svg" width="36" height="36" alt="Apache Airflow" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
-                    
-  ### Socials
-                          
-  <p align="left">
-    <a href="https://www.github.com/ibrokethecode" target="_blank" rel="noreferrer">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/ibrokethecode" target="_blank" rel="noreferrer">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-        </picture>
-    </a>
-  </p>
-
-<!--
- ### Badges
-
-  <a href="https://github.com/ibrokethecode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrokethecode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
-
-Made with [Profile me](https://www.profileme.dev/create-profile)
