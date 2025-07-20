@@ -1,14 +1,14 @@
-Hi, I'm AlexRTC 👋
-============================================================================================================================
+Hi, I'm Alex Turpo Coila 👋
+---
 
-Machine Learning Practitioner | AI Developer
----------------------------------------------
+Machine Learning Practitioner | AI Software Developer
+---
 
 <p align="left">
   <img src="https://www.codewars.com/users/iBrokeTheCode/badges/micro" alt="Codewars Badge" />
 </p>
 
-I'm a **Machine Learning Practitioner** with a background in Systems Engineering and IT, currently transitioning into **Artificial Intelligence Engineering** at AnyoneAI. I'm passionate about building robust, data-driven solutions and creating intelligent systems that deliver real-world impact. My experience includes developing and deploying CNN-based image classification models and optimizing supervised learning models for risk analysis.
+I'm a **Machine Learning Practitioner** with a background in Systems Engineering and IT, currently transitioning into **Artificial Intelligence Engineering**. I'm passionate about building robust, data-driven solutions and creating intelligent systems that deliver real-world impact. My experience includes developing and deploying CNN-based image classification models and optimizing supervised learning models for risk analysis.
 
 I consider myself a **lifelong learner** with a **growth mindset**, always exploring new ways to solve complex problems and contribute to innovative technologies. Let's connect and build something amazing!
 
@@ -32,8 +32,8 @@ I consider myself a **lifelong learner** with a **growth mindset**, always explo
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
   <a href="https://tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="Scikit-learn" /></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/airflow-colored.svg" width="36" height="36" alt="Apache Airflow" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/258f7c03-f967-45ae-9a26-62062aa318bd" width="36" height="36" alt="Scikit-learn" /></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/69fb5c80-7ec7-4180-9655-31fd3d9aa49a" width="36" height="36" alt="Apache Airflow" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
